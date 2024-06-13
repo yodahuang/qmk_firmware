@@ -30,3 +30,7 @@
 #define SPI_SCK_PIN GP2
 #define SPI_MISO_PIN GP0
 #define SPI_MOSI_PIN GP7
+
+/* Drag slower */
+#define PLOOPY_DRAGSCROLL_DIVISOR_H 40.0
+#define PLOOPY_DRAGSCROLL_DIVISOR_V 40.0
